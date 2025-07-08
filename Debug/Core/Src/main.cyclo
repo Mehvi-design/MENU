@@ -1,0 +1,12 @@
+../Core/Src/main.c:73:6:draw_bulb_on	1
+../Core/Src/main.c:79:6:draw_bulb_off	1
+../Core/Src/main.c:86:6:process_command	5
+../Core/Src/main.c:129:6:draw_menu	3
+../Core/Src/main.c:148:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:178:5:main	8
+../Core/Src/main.c:319:6:SystemClock_Config	4
+../Core/Src/main.c:369:13:MX_LPUART1_UART_Init	2
+../Core/Src/main.c:403:13:MX_SPI1_Init	2
+../Core/Src/main.c:441:13:MX_DMA_Init	1
+../Core/Src/main.c:462:13:MX_GPIO_Init	1
+../Core/Src/main.c:520:6:Error_Handler	1

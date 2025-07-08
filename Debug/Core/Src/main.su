@@ -1,0 +1,12 @@
+../Core/Src/main.c:73:6:draw_bulb_on	16	static
+../Core/Src/main.c:79:6:draw_bulb_off	16	static
+../Core/Src/main.c:86:6:process_command	112	static
+../Core/Src/main.c:129:6:draw_menu	40	static
+../Core/Src/main.c:148:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:178:5:main	8	static
+../Core/Src/main.c:319:6:SystemClock_Config	96	static
+../Core/Src/main.c:369:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:403:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:441:13:MX_DMA_Init	16	static
+../Core/Src/main.c:462:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:520:6:Error_Handler	4	static,ignoring_inline_asm
